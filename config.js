@@ -41,8 +41,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285850539404'] //ur owner number
-global.ownername = "6285850539404"
+global.owner = ['6282154156241'] //ur owner number
+global.ownername = "Amirr"
 global.ytname = "YT:https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur yt chanel name
 global.socialm = "GitHub: Jarot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -55,8 +55,8 @@ global.packname = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄ Stickers\n\n\n\n\n\n\n🦄🦄
 global.author = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6285850539404'] //ur owner tag
-global.ownernummenu = ['6285850539404'] //ur owner number in menu and all
+global.ownertag = ['6282154156241'] //ur owner tag
+global.ownernummenu = ['6282154156241'] //ur owner number in menu and all
 global.watermark = "𝐑𝐢𝐬𝐦𝐚-ᴍᴅ᭄." //ur watermark
 global.botscript = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
 global.linkz1 = ""
